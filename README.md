@@ -4,6 +4,9 @@ It has a nice umbrella. It rains when there are errors!
 Shows error code (if not zero), and current path.
 The colors are purple-ish, to match the umbrella vibe.
 
+Screenshot:
+![Screenshot 2023-11-20 at 01 54 16](https://github.com/ruweird/ruweird.zsh-theme/assets/93884140/c9b83caa-0a13-409c-b2f4-d10cd662b653)
+
 I have the file in my ~/.oh-my-zsh/custom/themes folder.
 To use it I edit my ~/.zshrc file, and do the following:
 
